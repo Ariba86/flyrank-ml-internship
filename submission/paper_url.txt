@@ -1,2 +1,2 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/Ariba86/flyrank-ml-internship/blob/main/work/capstone_report.md
 https://github.com/Ariba86/flyrank-ml-internship
