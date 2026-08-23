@@ -75,7 +75,7 @@ Which content pages need editorial attention, and why? This study clusters rough
 - **Steady Middle** (57,053 pages, 56.2%) — the majority archetype; average performance, mild decline.
 - **Buried/Weak** (18,162 pages, 17.9%) — low traffic, worst average ranking (~49), narrow query coverage.
 
-![Pages per Archetype and Traffic vs Ranking](images/cluster_analysis.png)
+![Pages per Archetype and Traffic vs Ranking](https://raw.githubusercontent.com/Ariba86/flyrank-ml-internship/main/work/imagescluster_analysis.png)
 
 **Surprises / negative results:** Only 0.15% of pages (Elite Growers) were actually growing — every other archetype showed flat-to-declining impressions month-over-month. Traffic volume alone could not distinguish Elite Growers from High-Traffic Decliners, confirming that direction of change and query concentration matter more than raw volume.
 
