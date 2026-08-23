@@ -1,9 +1,9 @@
 # Content Archetype Clustering: Grouping Search Content by Behavioral Pattern
 
-**Author:** [apna naam likho]
+**Author:** Ariba Zulfiqar
 **Lane:** Structured Content Archetype Clustering
 **Repo:** https://github.com/Ariba86/flyrank-ml-internship
-**Date:** [aaj ki date likho]
+**Date:** August 23, 2026
 
 ## 0. Abstract
 
